@@ -26,7 +26,7 @@
 
 
 
-- 🔭 I’m currently working on [StudyWay](https://indianiss.com).
+- 🔭 I’m currently working on [Self Investment](https://amarpali.co.in).
 - 🌱 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate on [Instagram](https://instagram.com/vikash_viraj_official).
 - 🤔 I’m looking for help with Flutter.
