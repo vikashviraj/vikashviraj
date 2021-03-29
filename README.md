@@ -59,15 +59,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>  
 
+<h2 align="center">Git-Hub Streak !! :fire:</h2> 
+<p  align="center">
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashviraj&)" alt="Vikash Viraj" />
+</p>
+
+
+[![Viraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikashviraj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/vikashviraj/github-readme-activity-graph)
+
 <a href="https://github.com/vikashviraj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashviraj&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/vikashviraj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashviraj&show_icons=true&theme=dark&line_height=27" alt="Viraj's github stats"/>
-</a>
-<a href="https://github.com/vikashviraj/School-Management-System-Using-PHP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashviraj&repo=School-Management-System-Using-PHP&theme=dark" />
-
 </a>
 
 <div align="center">
