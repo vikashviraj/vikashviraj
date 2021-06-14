@@ -26,18 +26,18 @@
 
 
 
-- 🔭 I’m currently working on [Self Investment](https://amarpali.co.in).
-- 🌱 I’m currently learning Reactjs.
-- 👯 I’m looking to collaborate on [Instagram](https://instagram.com/vikash_viraj_official).
-- 🤔 I’m looking for help with Flutter.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @vikashviraj2](https://twitter.com/vikashviraj2) , [Instagram - @vikash_viraj_official](https://instagram.com/vikash_viraj_official)
+- 🔭 I’m currently working on [DevToolKit](https://virajwebgroup.com).
+- 🌱 I’m currently learning DevOps.
+- 👯 I’m looking to collaborate on [Linkedin](https://linkedin.com/in/vikash-viraj).
+- 🤔 I’m looking for help with Flutter & ReactJs.
+- 💬 Ask me about Flutter, Reactjs, Consulting or any tech related stuff.
+- 📫 How to reach me: [Twitter - @vikashviraj2](https://twitter.com/vikashviraj2) , [Instagram - @vikash_viraj_official](https://instagram.com/vikashvirajofficial)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours developing apps everyday.
 
 [![Twitter: vikashviraj2](https://img.shields.io/twitter/follow/vikashviraj2?style=social)](https://twitter.com/vikashviraj2)
 [![Linkedin: vikash-viraj](https://img.shields.io/badge/-vikashviraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikash-viraj/)](https://www.linkedin.com/in/vikash-viraj/)
-[![GitHub iampawan](https://img.shields.io/github/followers/vikashviraj?label=follow&style=social)](https://github.com/vikashviraj)
+[![GitHub](https://img.shields.io/github/followers/vikashviraj?label=follow&style=social)](https://github.com/vikashviraj)
 
 
 **Languages and Tools:**  
