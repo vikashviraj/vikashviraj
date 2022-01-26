@@ -11,7 +11,7 @@
 <a href="https://github.com/vikashviraj">
   <img align="left" alt="Viraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/vikash_viraj_official/">
+<a href="https://instagram.com/vikashvirajofficial/">
   <img align="left" alt="Viraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/vikashviraj2/">
