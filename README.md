@@ -26,11 +26,11 @@
 
 
 
-- 🔭 I’m currently working on [DevToolKit](https://virajwebgroup.com).
-- 🌱 I’m currently learning DevOps.
+- 🔭 I’m currently working on [SecretNote.io](https://secretnote.io).
+- 🌱 I’m currently learning NextJs.
 - 👯 I’m looking to collaborate on [Linkedin](https://linkedin.com/in/vikash-viraj).
-- 🤔 I’m looking for help with Flutter & ReactJs.
-- 💬 Ask me about Flutter, Reactjs, Consulting or any tech related stuff.
+- 🤔 I’m looking for help with Flutter & ReactJs & NextJs.
+- 💬 Ask me about Flutter, Reactjs, NextJs, NodeJs Consulting or any tech related stuff.
 - 📫 How to reach me: [Twitter - @vikashviraj2](https://twitter.com/vikashviraj2) , [Instagram - @vikash_viraj_official](https://instagram.com/vikashvirajofficial)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours developing apps everyday.
