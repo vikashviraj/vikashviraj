@@ -2,11 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashviraj&label=Views&color=blue&style=plastic" alt="vikashviraj" /> </p>
 
-<br/>
-<br/>
-
-
-
 - 🔭 I’m currently working on [LogNest](https://lognest.build).
 - 🌱 I’m currently learning Quantum Computing.
 - 👯 I’m looking to collaborate on [Linkedin](https://linkedin.com/in/vikash-viraj).
