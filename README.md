@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [Linkedin](https://linkedin.com/in/vikash-viraj).
 - 🤔 I’m looking for help with Flutter & React & Node.js.
 - 💬 Ask me about Flutter, React, Node.js or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @vikashviraj2](https://twitter.com/vikashviraj_dev) [Personal Blog - vikashviraj.dev](https://vikashviraj.dev)
+- 📫 How to reach me: [Twitter - @vikashviraj_dev](https://twitter.com/vikashviraj_dev) [Personal Blog - vikashviraj.dev](https://vikashviraj.dev)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2 hours developing some cool stuff every day.
 
